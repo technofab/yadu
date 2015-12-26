@@ -1,5 +1,5 @@
 @ECHO OFF
-REM SEE READMEWIN.TXT FOR CORRECT CONFIGURATION
+REM Please follow READMEWIN.TXT for correct configuration
 SETLOCAL
 SET UNAME=myusername
 SET PWORD=mypassword

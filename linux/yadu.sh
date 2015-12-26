@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Please follow README.TXT for correct configuration
+# Please follow READMELIN.TXT for correct configuration
 
 USERNAME = "myusername"
 PASSWORD = "mypassword"
